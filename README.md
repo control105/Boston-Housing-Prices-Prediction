@@ -20,7 +20,7 @@ The Boston housing market is highly competitive, and you want to be the best rea
 ## Software and Libraries
 This project uses the following software and Python libraries:
 
-- [Python 2.7](https://www.python.org/downloads/release/python-356/)
+- [Python 3.56](https://www.python.org/downloads/release/python-356/)
 - [NumPy](http://www.numpy.org/)
 - [pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
